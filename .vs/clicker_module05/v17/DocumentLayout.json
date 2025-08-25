@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UnityProjects\\clicker_module05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58A17067-2DC6-CD4B-9C4C-9E826B017413}|Assembly-CSharp.csproj|C:\\UnityProjects\\clicker_module05\\assets\\clicker\\scripts\\numberparityview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A17067-2DC6-CD4B-9C4C-9E826B017413}|Assembly-CSharp.csproj|solutionrelative:assets\\clicker\\scripts\\numberparityview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A17067-2DC6-CD4B-9C4C-9E826B017413}|Assembly-CSharp.csproj|c:\\unityprojects\\clicker_module05\\assets\\clicker\\scripts\\numberparity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A17067-2DC6-CD4B-9C4C-9E826B017413}|Assembly-CSharp.csproj|solutionrelative:assets\\clicker\\scripts\\numberparity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A17067-2DC6-CD4B-9C4C-9E826B017413}|Assembly-CSharp.csproj|C:\\UnityProjects\\clicker_module05\\assets\\clicker\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A17067-2DC6-CD4B-9C4C-9E826B017413}|Assembly-CSharp.csproj|solutionrelative:assets\\clicker\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A17067-2DC6-CD4B-9C4C-9E826B017413}|Assembly-CSharp.csproj|c:\\unityprojects\\clicker_module05\\assets\\clicker\\scripts\\answertracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A17067-2DC6-CD4B-9C4C-9E826B017413}|Assembly-CSharp.csproj|solutionrelative:assets\\clicker\\scripts\\answertracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A17067-2DC6-CD4B-9C4C-9E826B017413}|Assembly-CSharp.csproj|c:\\unityprojects\\clicker_module05\\assets\\clicker\\scripts\\answertrackerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A17067-2DC6-CD4B-9C4C-9E826B017413}|Assembly-CSharp.csproj|solutionrelative:assets\\clicker\\scripts\\answertrackerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnswerTracker.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\clicker_module05\\Assets\\Clicker\\Scripts\\AnswerTracker.cs",
+              "RelativeDocumentMoniker": "Assets\\Clicker\\Scripts\\AnswerTracker.cs",
+              "ToolTip": "C:\\UnityProjects\\clicker_module05\\Assets\\Clicker\\Scripts\\AnswerTracker.cs",
+              "RelativeToolTip": "Assets\\Clicker\\Scripts\\AnswerTracker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T19:12:14.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnswerTrackerView.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\clicker_module05\\Assets\\Clicker\\Scripts\\AnswerTrackerView.cs",
+              "RelativeDocumentMoniker": "Assets\\Clicker\\Scripts\\AnswerTrackerView.cs",
+              "ToolTip": "C:\\UnityProjects\\clicker_module05\\Assets\\Clicker\\Scripts\\AnswerTrackerView.cs",
+              "RelativeToolTip": "Assets\\Clicker\\Scripts\\AnswerTrackerView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T19:09:30.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NumberParity.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\clicker_module05\\Assets\\Clicker\\Scripts\\NumberParity.cs",
+              "RelativeDocumentMoniker": "Assets\\Clicker\\Scripts\\NumberParity.cs",
+              "ToolTip": "C:\\UnityProjects\\clicker_module05\\Assets\\Clicker\\Scripts\\NumberParity.cs",
+              "RelativeToolTip": "Assets\\Clicker\\Scripts\\NumberParity.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T18:58:21.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NumberParityView.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\clicker_module05\\Assets\\Clicker\\Scripts\\NumberParityView.cs",
+              "RelativeDocumentMoniker": "Assets\\Clicker\\Scripts\\NumberParityView.cs",
+              "ToolTip": "C:\\UnityProjects\\clicker_module05\\Assets\\Clicker\\Scripts\\NumberParityView.cs",
+              "RelativeToolTip": "Assets\\Clicker\\Scripts\\NumberParityView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T18:56:04.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\clicker_module05\\Assets\\Clicker\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Clicker\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\UnityProjects\\clicker_module05\\Assets\\Clicker\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Clicker\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T17:29:49.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
