@@ -9,6 +9,16 @@
     "C:\\Program Files\\Unity\\Hub\\Editor\\6000.2.1f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
+    "com.unity.2d.sprite@1.0.0": {
+      "name": "com.unity.2d.sprite",
+      "displayName": "2D Sprite",
+      "resolvedPath": "C:\\UnityProjects\\clicker_module05\\Library\\PackageCache\\com.unity.2d.sprite@4ac596689b15",
+      "fingerprint": "4ac596689b15d52a1c1ff6d6544cf1b76bcee30e",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
     "com.unity.collab-proxy@2.9.2": {
       "name": "com.unity.collab-proxy",
       "displayName": "Unity Version Control",
